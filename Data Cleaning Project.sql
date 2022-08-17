@@ -106,7 +106,7 @@ from Portfolio_Projects..NashvilleHousing
 
 
 
---Changing Y and N to yes and No in 'Sold as Vacant' feild
+--Changing Y and N to yes and No in 'Sold as Vacant' field
 
 select distinct(SoldAsVacant), count(SoldAsVacant)
 from Portfolio_Projects..NashvilleHousing
@@ -128,7 +128,7 @@ set SoldAsVacant = CASE WHEN SoldAsVacant = 'Y' then 'Yes'
 
 /* 
 The first set of query displays a table countaning 'Yes','No','Y','N'. 
-After the updatre statement it will have only 'Yes' and 'No'.
+After the update statement it will have only 'Yes' and 'No'.
 */
 
 
