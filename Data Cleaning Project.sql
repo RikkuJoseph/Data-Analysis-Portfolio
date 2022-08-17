@@ -15,6 +15,8 @@ set SaleDateConverted = convert(date,SaleDate)
 select SaleDateConverted
 from Portfolio_Projects..NashvilleHousing
 
+
+
 --Populate Property Address data
 
 select *
