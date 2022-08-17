@@ -42,6 +42,8 @@ where a.PropertyAddress is null
 the last query was performed to fill all the null values which will result in the second to 
 last query not give any results anymore. */
 
+
+
 --Breaking Address into individual columns (Address, City, State)
 
 --using SUBSTRING()
@@ -67,6 +69,8 @@ set PropertySplitCity = SUBSTRING(PropertyAddress, CHARINDEX(',', PropertyAddres
 
 select *
 from Portfolio_Projects..NashvilleHousing
+
+
 
 --Breaking owner address into parts using PARSENAME()
 
@@ -98,6 +102,8 @@ set OwnerSplitState = parsename(replace(ownerAddress,',','.'),1)
 select *
 from Portfolio_Projects..NashvilleHousing
 
+
+
 --Changing Y and N to yes and No in 'Sold as Vacant' feild
 
 select distinct(SoldAsVacant), count(SoldAsVacant)
@@ -123,6 +129,8 @@ The first set of query displays a table countaning 'Yes','No','Y','N'.
 After the updatre statement it will have only 'Yes' and 'No'.
 */
 
+
+
 --Removing Duplicates
 
 WITH rownumCTE as(
@@ -145,6 +153,8 @@ from rownumcte
 where row_num > 1
 order by PropertyAddress
 
+
+
 --deleting the rows
 
 WITH rownumCTE as(
@@ -165,6 +175,7 @@ from Portfolio_Projects..NashvilleHousing
 delete
 from rownumcte
 where row_num > 1
+
 
 
 --Deleting Unused Columns
