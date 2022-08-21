@@ -1,3 +1,11 @@
+/*
+CONCEPTS USED HERE
+• The basics - SELECT. FROM, WHERE, ORDER BY. GROUP BY 
+• CTE or Common Table Expression 
+• Creating tables, Inserting into Tables, Droping Tables
+• Creating Views
+*/
+
 -- Total Cases vs Total Deaths
 
 select Location, date, convert(float, total_cases) as total_cases, convert(float, total_deaths) as total_deaths, convert(float, total_deaths)*100/nullif(convert(float, total_cases),0) as Death_Percent
