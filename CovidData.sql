@@ -1,6 +1,6 @@
 /*
 CONCEPTS USED HERE
-• The basics - SELECT. FROM, WHERE, ORDER BY. GROUP BY 
+• The basics - SELECT. FROM, WHERE, ORDER BY, GROUP BY 
 • CTE or Common Table Expression 
 • Creating tables, Inserting into Tables, Droping Tables
 • Creating Views
