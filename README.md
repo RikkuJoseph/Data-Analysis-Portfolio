@@ -12,5 +12,6 @@ A Effective **Tableau Visualization** of the Covid Data's insights can be viewed
 
 Another project that expanded my skillset in SQL is the SQL Data Cleaning project. It uses some advanced SQL concepts for cleaning the dataset under consideration.The **SQL query** can be viewed [here](https://github.com/RikkuJoseph/Data-Analysis-Portfolio/blob/main/Data%20Cleaning%20Project.sql) along with more details. The dataset used is data on [Nashville Housing market](https://github.com/RikkuJoseph/Data-Analysis-Portfolio/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx).
 
+The next one in my portfolio is a **Spreadsheet Project**. This fun project demonstrates day to day activities done by a data analyst on an Excel data file. It can be viewed by clicking [here](https://docs.google.com/spreadsheets/d/1FSpGGRjW2B6d5yqeT_gtJHE1105l9MTz4VkX8sX1Evc/edit?usp=sharing) and also is stored in this repo under the file name Spreadsheet Project.xlsx .
 
 
