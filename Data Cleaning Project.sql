@@ -1,4 +1,3 @@
-
 /*     Cleaning Data in SQL Queries   
 
 Functions and Concepts used here :
