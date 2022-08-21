@@ -1,5 +1,15 @@
 
-/*     Cleaning Data in SQL Queries   */
+/*     Cleaning Data in SQL Queries   
+
+Functions and Concepts used here :
+• ALTER and UPDATE 
+• JOINing Tables
+• SUBSTRING()
+• PARSENAME() along with REPLACE()
+• CASE
+• Identifying duplicates 
+• Droping Columns
+*/
 
 
 --Standardizing date format
