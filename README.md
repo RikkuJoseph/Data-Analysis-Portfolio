@@ -14,4 +14,4 @@ Another project that expanded my skillset in SQL is the SQL Data Cleaning projec
 
 The next one in my portfolio is a **Spreadsheet Project**. This fun project demonstrates day to day activities done by a data analyst on an Excel data file. It can be viewed by clicking [here](https://docs.google.com/spreadsheets/d/1FSpGGRjW2B6d5yqeT_gtJHE1105l9MTz4VkX8sX1Evc/edit?usp=sharing) and also is stored in this repo under the file name Spreadsheet Project.xlsx .
 
-
+As an end to my search for finding real world data analytics project, I came across **Flipside Crypto**, A cryptocurrecny data analytics platform that motivates community members to create analysis and Dashboards using their Databases on crypto. I would like to share two of my projects from the space right here [[1]](https://app.flipsidecrypto.com/dashboard/sol-to-usdc-volume-on-orca-vs-jupiter-from-feb-01-to-feb-28-2022-LA-NRy) [[2]](https://app.flipsidecrypto.com/dashboard/flipping-nf-ts-skill-building-bounty-6-hard-z6BglL). I am also sharing my personal projects folder [here](https://flipsidecrypto.xyz/Rikku%20Joseph) on the website where all my new works on the platform will be reflected.
