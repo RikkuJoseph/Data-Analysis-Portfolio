@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-
+### Project Count : [7]...
 Hi, 
 My name is Rikku joseph an aspiring, to-be data analyst. This is a collection of all the data analysis projects that I have done.(LinkedIn Profile : [Rikku joseph](https://www.linkedin.com/in/rikkujoseph/))
 
