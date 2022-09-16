@@ -1,7 +1,8 @@
 # Data-Analysis-Portfolio
 ### Project Count : [7]...
 Hi, 
-My name is Rikku joseph an aspiring, to-be data analyst. This is a collection of all the data analysis projects that I have done.(LinkedIn Profile : [Rikku joseph](https://www.linkedin.com/in/rikkujoseph/))
+My name is Rikku joseph an aspiring, to-be data analyst. This is a collection of all the data analysis projects that I have done.\
+LinkedIn Profile : [Rikku joseph](https://www.linkedin.com/in/rikkujoseph/)
 
 I started out my data analysis journey by enrolling and completing the "Google Data Analytics Professional Certificate" course. My first full-fledged
 data analysis project was its capstone project. The entire analysis was done using R Programming language on R Studio. A detailed decription regarding all the underlying process, along with the code and the analysis report can be viewed on my Kaggle account by [clicking here](https://www.kaggle.com/code/rikkujoseph/data-analytics-project)
